@@ -1,0 +1,73 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Camera / video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Large datasets
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.rar
+
+# Model files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build files
+build/
+dist/
+*.spec
+
+# Python package cache
+*.egg-info/
+
+# Local configuration
+config.local.*
+
+# Local virtual environment backup
+venv_backup/

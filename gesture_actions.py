@@ -1,0 +1,10 @@
+GESTURE_ACTIONS = {
+    "OPEN_HAND": "SHIELD",
+    "FIST": "EXPLOSION",
+    "THUMBS_UP": "FIREBALL",
+    "ONE_FINGER": "LASER",
+    "ROCK": "LIGHTNING",
+    "PEACE": "ICE",
+    "TWO_FINGERS": "ICE",
+    "SPIDER": "SPIDER"
+}
