@@ -60,10 +60,6 @@ An AI-powered real-time hand gesture recognition system that uses computer visio
 
 \## 🧠 Technologies
 
-
-
-
-
 \- Python
 
 \- OpenCV
@@ -85,10 +81,6 @@ An AI-powered real-time hand gesture recognition system that uses computer visio
 
 
 \## 📁 Project Structure
-
-
-
-
 
 ```text
 
@@ -174,15 +166,9 @@ Hand-gesture-recognition/
 
 ✋ Gesture System
 
-
-
 The system maps recognized hand gestures to real-time visual effects.
 
-
-
 Gesture	Effect
-
-
 
 Open Hand	Portal
 
@@ -199,9 +185,6 @@ Pinch	        Energy Charge
 Rock Sign	Electric Blast
 
 Two Hands	Advanced Powers
-
-
-
 
 
 🧠 AI Pipeline
@@ -240,69 +223,41 @@ Power Controller
 
 Real-Time Visual Effects
 
+
 ⚙️ Installation
 
-
-
 Clone the repository:
-
-
 
 git clone https://github.com/PRANTA-12/Hand-gesture-recognition.git
 
 cd Hand-gesture-recognition
 
-
-
 Create a virtual environment:
-
-
 
 python -m venv venv
 
-
-
 Activate it on Windows:
-
-
 
 venv\\Scripts\\activate
 
-
-
 Install the required dependencies:
-
-
 
 pip install -r requirements.txt
 
 ▶️ Run
 
-
-
 Start the application with:
 
-
-
 python main.py
-
-
 
 Make sure your webcam is connected and available.
 
 
-
 🎯 Project Goal
-
-
 
 The goal of this project is to develop a human-computer interaction system where natural hand gestures can control real-time visual effects.
 
-
-
 The project combines:
-
-
 
 Computer Vision + Gesture Recognition + AI/ML + Real-Time Rendering
 
@@ -331,8 +286,6 @@ Standalone application deployment
 👨‍💻 Author
 
 Pranta Pratap Ghosh
-
-
 
 B.Tech Computer Science \& Engineering
 
